@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "988325489828",
+    "project_id": "registerforuser-e792e",
+    "storage_bucket": "registerforuser-e792e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988325489828:android:2e6e18dafd7e1b4c850a31",
+        "android_client_info": {
+          "package_name": "com.example.mentos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZmRxxSVW3FdSKDm4kxzcq6AwZ5r-xqaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
